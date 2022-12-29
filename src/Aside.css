@@ -1,0 +1,11 @@
+.aside_container {
+    font-size: 24px;
+    font-family: sans-serif;
+    flex: 1;
+    border-right: 2px solid #eee;
+    min-height: 400px;
+}
+
+.aside_container > ul {
+    padding: 10px;
+}

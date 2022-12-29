@@ -1,0 +1,10 @@
+.header_container {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #eee;
+}
+
+.header_container > .icon {
+    font-size: 30px;
+}
